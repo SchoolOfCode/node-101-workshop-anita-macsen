@@ -1,0 +1,22 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "the test node",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchoolOfCode/node-101-workshop-anita-macsen.git"
+  },
+  "keywords": [
+    "node-test"
+  ],
+  "author": "macsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-anita-macsen/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-anita-macsen#readme"
+}
