@@ -17,3 +17,18 @@ let myCollection = [
   ];
 
   console.log(myCollection)
+
+  
+  function describeItem(item) {
+      
+        if (item.count === 1) {
+        console.log("I have a" + item.name);
+        }
+       else {
+        if (item.count > 1) {
+        console.log("I have" + item.count + item.name);
+        }
+      }
+    
+  }
+  
